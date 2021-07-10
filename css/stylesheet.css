@@ -52,6 +52,7 @@ span {
 }
 
 .card {
+	background-color: white;
 	margin-bottom: 2rem;
 	padding: 1.7rem;
 	box-shadow: var(--shadow);
